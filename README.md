@@ -1,2 +1,2 @@
 # homewrok-2
-password generator
+Password Generator Challenge - DID NOT TOUCH HTML OR CSS CODE
